@@ -17,6 +17,6 @@ square that contains a ship.
 
 IMPLEMENTATION
 
-Design Patterns: <i> Factory, Singleton, Template.  </i> </br>
-Tests : <i> JUnit 4. </i> </br>
-UI : <i> Java Fx with Scene Builder. </i> </br>
+Design Patterns:  <i> Factory, Singleton, Template.  </i> </br>
+Tests :           <i> JUnit 4. </i> </br>
+UI :              <i> Java Fx with Scene Builder. </i> </br>
